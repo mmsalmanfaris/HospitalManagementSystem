@@ -1,0 +1,1 @@
+This is the initial project that my brother and I collaborated on, developing his final system for his MIT undergraduate program at Southeastern University of Sri Lanka. It's a Hospital Management System built using PHP.
